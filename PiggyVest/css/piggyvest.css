@@ -1,0 +1,75 @@
+body {
+    background-color:#ADD8E6;
+}
+
+.login-page {
+    width: 360px;
+    padding: 10% 0 0;
+    margin: auto;
+    
+}
+
+.form {
+    position: relative;
+    z-index: 1;
+    background: #ffffff;
+    max-width: 360px;
+    margin: 50 auto 100px;
+    padding: 60px;
+    padding-left: 50px;
+    text-align: left;
+    border-radius: 10px 10px 10px 0;
+    width: 360px;
+    font-style: normal;
+    font-size: 12px;
+}
+
+.form input {
+    font-family: sans-serif;
+    outline: 1;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.form button {
+    font-family: sans-serif;
+    outline: 0;
+    background: #3f3f92;
+    width: 100%;
+    border: 0;
+    padding: 15px;
+    color: #ffffff;
+    font-style: 14PX;
+    cursor: pointer;
+    border-radius: 10px 10px 10px 0;
+}
+
+a {
+    text-decoration: none;
+    text-decoration-color: #ffffff;
+    text-align: center; 
+}
+
+p {
+    text-align: center;
+    position: relative;
+}
+
+h2 {
+    color: #3333c7;
+    text-align: center;
+    font-size: 32px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    padding: 0px;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
